@@ -5,7 +5,7 @@ import logging
 from datetime import datetime
 
 # Настройки
-TOKEN = "7995509628:AAHyV-i2lb32PBfyBU0X6o1UK0kVonxQyrI"  # Замените на реальный!
+TOKEN = "тут я" # Замените на реальный!
 DB_NAME = "edgram.db"
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
